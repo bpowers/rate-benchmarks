@@ -1,7 +1,7 @@
 github.com/andres-erbsen/clock v0.0.0-20160526145045-9e14626cd129 h1:MzBOUgng9orim59UnfUTLRjMpd09C5uEVQ6RPGeCaVI=
 github.com/andres-erbsen/clock v0.0.0-20160526145045-9e14626cd129/go.mod h1:rFgpPQZYZ8vdbc+48xibu8ALc3yeyd64IhHS+PU6Yyg=
-github.com/bpowers/lockfree-rate v0.0.0-20220412141759-cf61846317c7 h1:iAX9pL/gCLOU956iciKdi/Lp1pU/Ldg1D2Y6wPlDZXw=
-github.com/bpowers/lockfree-rate v0.0.0-20220412141759-cf61846317c7/go.mod h1:B3/8m0M5SxKxCI1h1cV0FEiwHSHatC0KU/Fu3enLERA=
+github.com/bpowers/lockfree-rate v0.0.0-20220412170927-a77bfb8f2368 h1:kZ5q5l+Z0DvI9a+a6J4l/IjfFIW2W+y+zq88bZLgLj0=
+github.com/bpowers/lockfree-rate v0.0.0-20220412170927-a77bfb8f2368/go.mod h1:B3/8m0M5SxKxCI1h1cV0FEiwHSHatC0KU/Fu3enLERA=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
